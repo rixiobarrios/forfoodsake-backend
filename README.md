@@ -1,5 +1,9 @@
 <img width=100% src=https://user-images.githubusercontent.com/56275819/76587259-af3d9f00-64b9-11ea-9264-e59e83ee982a.jpg>
 
+# PROJECT 4:  GA-SEIR-129 BACKEND
+
+## For Food Sake: Eat Delicious Food, Save the Planet
+
 ## Concept
 
 Food waste in the US continues to be a crippling issue which effects everyone in our community. Here are a few stats to illustrate the issue.
@@ -181,6 +185,5 @@ router.put('/:id/edit', async (req, res) => {
 
 <hr>
 
-**Additional documentation can be found in the Frontend Repository**
-
-[Click Here](https://forfoodsake.herokuapp.com/)
+**Additional documentation can be found in the frontend repository**
+[Click here](https://github.com/rixiobarrios/forfoodsake-frontend)
